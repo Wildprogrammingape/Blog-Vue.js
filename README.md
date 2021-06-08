@@ -13,7 +13,7 @@
 npm install
 ```
 
-Author: Long Chen
+Author: Long Chen -- 06/08/2021
 
 ### Compiles and hot-reloads for development
 ```
