@@ -1,9 +1,11 @@
 # blog-vue
 
 ## Run following codes in command line:
-
+```
 1. npx json-server --watch data/db.json
+```
 2. npm run serve
+```
 
 ## Project setup
 ```
