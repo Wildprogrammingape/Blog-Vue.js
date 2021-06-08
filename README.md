@@ -4,6 +4,7 @@
 ```
 1. npx json-server --watch data/db.json
 ```
+```
 2. npm run serve
 ```
 
