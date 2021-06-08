@@ -1,5 +1,10 @@
 # blog-vue
 
+## Run the Vue Blog:
+
+1. npx json-server --watch data/db.json
+2. npm run serve
+
 ## Project setup
 ```
 npm install
